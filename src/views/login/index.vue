@@ -23,7 +23,7 @@ export default {
   },
   data () {
     return {
-      title: '在你的心上！'
+      title: '在你的心上app！'
     }
   }
 }
